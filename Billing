@@ -1,3 +1,4 @@
 read item 1, item 2, item 3
 total=item1+item2+item3
 give discount if bill more than 5000 it is 20%
+add points to local customers...
